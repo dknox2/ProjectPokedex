@@ -1,1 +1,3 @@
-# UWG-SE2-Spring19-Group1
+# Project Pokedex
+
+A reupload from class repository for archival purposes.
