@@ -1,0 +1,1 @@
+[{"level": 1, "name": "Poison Sting", "type": "POISON", "category": "PHYSICAL", "power": 15, "accuracy": 100, "pp": 35}, {"level": 1, "name": "String Shot", "type": "BUG", "category": "STATUS", "power": 0, "accuracy": 95, "pp": 40}, {"level": 9, "name": "Bug Bite", "type": "BUG", "category": "PHYSICAL", "power": 60, "accuracy": 100, "pp": 20}]

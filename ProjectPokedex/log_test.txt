@@ -1,0 +1,2 @@
+text
+Exception thrown in ZMQSocket::postToServer

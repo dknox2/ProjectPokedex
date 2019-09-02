@@ -1,0 +1,16 @@
+The transfer format will be JSON based.
+
+In order to differentiate, null data will be string literals, NULL or null, with their respective keys.
+
+Each Pokemon as a JSON unit will have the following keys as string literals:
+"name" = NAME
+"id" = POKEDEX_ID
+"weight" = WEIGHT
+"height" = HEIGHT
+"location" = LOCATION
+"summary" = SUMMARY
+"type1" = TYPE1
+"type2" = TYPE2
+"exclusivity" = EXCLUSIVITY
+
+In order to facilitate transfer between server and client, all communications will be a CSV of JSON units.
